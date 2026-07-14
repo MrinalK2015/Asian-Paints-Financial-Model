@@ -22,19 +22,15 @@ An integrated 3-Statement Financial Model of Asian Paints Ltd. built in Microsof
 
 ### DCF Valuation
 
-![DCF Valuation](DCF(Asian Paints).png)
-
----
+![DCF Valuation](./DCF(Asian Paints).png)
 
 ### Sensitivity Analysis
 
-![Sensitivity Analysis](Sensitivity Analysis(Asian Paints).png)
-
----
+![Sensitivity Analysis](./Sensitivity Analysis(Asian Paints).png)
 
 ### Trend Analysis
 
-![Trend Analysis](Trend Analysis(Asian Paints).png)
+![Trend Analysis](./Trend Analysis(Asian Paints).png)
 
 ## Disclaimer
 
